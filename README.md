@@ -1,4 +1,4 @@
-# 💻 SQL Playground: Practice & Master SQL 💻
+# 💻 SQL Playground: Practice & Master SQL
 
 **Sharpen your SQL skills with this interactive playground!**
 
